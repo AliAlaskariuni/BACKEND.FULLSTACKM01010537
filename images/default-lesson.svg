@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title description">
+    <title id="title">University lesson</title>
+    <desc id="description">A simple illustration representing a university lesson.</desc>
+    <rect width="640" height="360" fill="#15142a"/>
+    <rect x="110" y="95" width="420" height="190" rx="8" fill="#c6a769"/>
+    <rect x="145" y="130" width="350" height="16" fill="#0a0916"/>
+    <rect x="145" y="170" width="270" height="16" fill="#0a0916"/>
+    <rect x="145" y="210" width="315" height="16" fill="#0a0916"/>
+</svg>
