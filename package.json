@@ -13,7 +13,7 @@
   "license": "ISC",
   "author": "Ali alaskari",
   "type": "commonjs",
-  "main": "hello.js",
+  "main": "server.js",
   "scripts": {
     "test": "node hello.js",
     "start": "node server.js"
